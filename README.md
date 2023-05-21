@@ -22,11 +22,12 @@ Note: This has been moved to ./Archive/
 
 6. Spiral.cs - A slightly heavier math function to create a "phone-cord" style spiral pattern using LineRenderer vertices.
 
-# Commenting Styles
+# Coding Styles
 
-Different teams have different perspectives on code commenting, and I basically just follow convention in these cases.
+I'm updating this readme in 2023 so I couldn't say how accurate this is, but I tend to stick pretty closely to the MSDN C# coding style guide,
+with some exceptions made for making Unity dev easier.
 
-My preferred Unity style of commenting atm is `/// <<summary>> HelloWorld </summary>`, and in general I try to use big clear method+variable names.
+I tend to use the Rider IDE and find it matches my preferred style.
 
 # Licensing
-Project intentionally has no license. Sorry. :)
+MIT License
